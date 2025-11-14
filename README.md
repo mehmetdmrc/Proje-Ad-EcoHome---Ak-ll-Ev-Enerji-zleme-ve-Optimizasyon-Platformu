@@ -1,4 +1,4 @@
-# Proje-Ad-EcoHome---Ak-ll-Ev-Enerji-zleme-ve-Optimizasyon-Platformu
+# Proje-Ad-EcoHome---Akilli-Ev-Enerji-izleme-ve-Optimizasyon-Platformu
 Proje Senaryosu: Akıllı Ev Enerji Yönetim Sistemi (SmartHome Energy Dashboard)
 
 EcoHome, kullanıcıların evlerindeki enerji tüketimini (elektrik, su, gaz) gerçek zamanlı olarak izleyebileceği, verileri analiz edip anlamlı bilgilere dönüştürebileceği ve otomatik tasarruf önlemleri alabileceği bir web ve mobil uygulamadır. Sistem, IoT sensörlerinden gelen verileri işleyerek kullanıcıya aylık tahmini faturalar, tüketim alışkanlıklarına yönelik öneriler ve "en çok tüketen cihaz" gibi bilgiler sunar.
